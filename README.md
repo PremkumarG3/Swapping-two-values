@@ -19,7 +19,22 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
+```
+#Program to swap two values.
+#Developed by:Prem Kumar G
+#RegisterNumber:23003614
+def swap(a,b):
+     c=a
+     a=b
+     b=c
+     print("Swapped values are: {} {}".format(a,b))
+a=float(input())
+b=float(input())
+swap(a,b)
 
+```
+## OUTPUT:
+![output](output.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
