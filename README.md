@@ -34,8 +34,9 @@ swap(a,b)
 
 ```
 ## OUTPUT:
-![output](output.png)
 
+
+![output](output.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
