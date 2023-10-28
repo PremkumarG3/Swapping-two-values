@@ -34,9 +34,9 @@ swap(a,b)
 
 ```
 ## OUTPUT:
+![Screenshot 2023-10-20 091338](https://github.com/PremkumarG3/Swapping-two-values/assets/138955646/a2caef7c-c240-4274-a31a-b00582533e8d)
 
 
-![output](output.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
